@@ -1,3 +1,6 @@
-user-agent,NeteaseMusic*, music
-host, music.163.com, music
-host, interface.music.163.com, music
+user-agent,NeteaseMusic*,music
+user-agent,NeteaseMusic**,music
+user-agent,网易云音乐*,music
+user-agent,网易云音乐**,music
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,music
+user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,music
