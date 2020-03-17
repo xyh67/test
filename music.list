@@ -4,3 +4,5 @@ user-agent,网易云音乐*,music
 user-agent,网易云音乐**,music
 user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,music
 user-agent,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,music
+host-suffix, music.163.com, music
+host-suffix, interface.music.163.com, music
